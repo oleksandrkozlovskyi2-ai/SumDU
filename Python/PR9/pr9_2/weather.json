@@ -1,0 +1,27 @@
+[
+    {
+        "day": 1,
+        "precipitation": 5,
+        "temperature": -2
+    },
+    {
+        "day": 2,
+        "precipitation": 0,
+        "temperature": 1
+    },
+    {
+        "day": 3,
+        "precipitation": 12,
+        "temperature": 3
+    },
+    {
+        "day": 4,
+        "precipitation": 7,
+        "temperature": -1
+    },
+    {
+        "day": 5,
+        "precipitation": 9.0,
+        "temperature": 0.0
+    }
+]
